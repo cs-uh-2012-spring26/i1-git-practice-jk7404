@@ -10,3 +10,6 @@ I am the main author and developer of the program, and since I wasn't following 
 
 ### Proof Reading
 Article checked for typos
+
+### Comments
+Sienna: Wow that's impressive! I'm looking forward to see how this course can benefit you in improving your development workflow.
