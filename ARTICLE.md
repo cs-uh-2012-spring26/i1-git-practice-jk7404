@@ -15,3 +15,5 @@ Article checked for typos
 This article does really well shed some lght on the discussions on self coreecting llm agent for automated android builds
 ### Comments
 Sienna: Wow that's impressive! I'm looking forward to see how this course can benefit you in improving your development workflow.
+### Comment from Daewoong L
+Great article alhamdulillah
